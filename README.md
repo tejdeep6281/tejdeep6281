@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tejdeep6281
 - 👀 I’m interested in Blockchain Technology
 - 🌱 I’m currently learning Btech 2nd year
-- 💞️ I’m looking to collaborate with Binance
+- 💞
 - 📫 How to reach me: my email tejdeepmaddileti@gmail.com
 
 <!---
