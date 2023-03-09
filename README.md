@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @tejdeep6281
+- 👋 Hi, I’m @torque
 - 👀 I’m interested in Blockchain Technology
 - 🌱 I’m currently learning Btech 2nd year
 - 💞
-- 📫 How to reach me: my email tejdeepmaddileti@gmail.com
+- 📫 How to reach me: 
 
 <!---
 tejdeep6281/tejdeep6281 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
